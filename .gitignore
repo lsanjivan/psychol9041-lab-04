@@ -1,0 +1,20 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.claude/
+
+# Quarto
+/.quarto/
+**/*.quarto_ipynb
+
+# Course materials (instructor's demonstration and lab instructions).
+# Delete these lines if you want them in the repository.
+Lab4Assignment.qmd
+Lab4Assignment.html
+Lab4Demonstration.qmd
+Lab4Demonstration.html
+Binary Logistic Regression*.html
+data/

@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+
+website:
+  title: "PSYCHOL 9041 Lab 4"
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: show
+    code-tools: true
+    embed-resources: true
+    theme: cosmo
